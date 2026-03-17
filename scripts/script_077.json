@@ -6,8 +6,8 @@
     "data_size": 144,
     "nom_orig": "Tamaki",
     "texte_orig": "Ngh...[SP]I[SP]can't[SP]believe[SP]even[SP]my[SP]demons[SP]are\nno[SP]match[SP]for[SP]him!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Argh...[SP]Même[SP]mes[SP]démons[SP]ne[SP]lui[SP]arrivent[SP]pas\nà[SP]la[SP]cheville!"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "You've[SP]really[SP]pissed[SP]me[SP]off.[1205][001E][SP]I'm[SP]giving[SP]you\nfive[SP]more[SP]seconds[SP]to[SP]live![SP]Rrraaaaaaagh!",
     "nom_fr": "",
-    "texte_fr": ""
+    "texte_fr": "Tu[SP]m'as[SP]vraiment[SP]mis[SP]hors[SP]de[SP]moi.[1205][001E][SP]Il[SP]te[SP]reste\ncinq[SP]secondes[SP]à[SP]vivre![SP]Rrraaaaaaagh!"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 130,
     "nom_orig": "King[SP]Leo",
     "texte_orig": "You've[SP]come...[1205][001E][SP]As[SP]I[SP]expected[SP]the[SP]Cursed\nStar[SP]to.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Roi[SP]Leo",
+    "texte_fr": "Tu[SP]es[SP]venu...[1205][001E][SP]Je[SP]n'en[SP]attendais[SP]pas[SP]moins[SP]de[SP]la[SP]part[SP]de[SP]l'Étoile[SP]Maudite."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 48,
     "nom_orig": "Ixquic",
     "texte_orig": "Master[SP]Leo!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ixquic",
+    "texte_fr": "Maître[SP]Leo!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 186,
     "nom_orig": "Ixquic",
     "texte_orig": "Why'd[SP]you[SP]set[SP]the[SP]place[SP]on[SP]fire!?[SP]Were[SP]you\ngonna[SP]kill[SP]me[SP]too!?[SP]Why,[SP]Master[SP]Leo!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ixquic",
+    "texte_fr": "Pourquoi[SP]avez-vous[SP]mis[SP]le[SP]feu!?[SP]Comptiez-vous\nme[SP]tuer[SP]aussi!?[SP]Pourquoi,[SP]Maître[SP]Léo!?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 64,
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Why?[1205][001E][SP]Because...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Roi[SP]Leo",
+    "texte_fr": "Pourquoi?[1205][001E][SP]Parce[SP]que..."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 102,
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "Because[SP]I[SP]hate[SP]sniveling[SP]brats!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr":  "Tatsuya[SP]Sudou",
+    "texte_fr": "Parce[SP]que[SP]je[SP]déteste[SP]les[SP]gamins[SP]geintifs!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 48,
     "nom_orig": "Maya",
     "texte_orig": "Ah...![SP]Ngh...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ah...![SP]Ngh..."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 284,
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "You[SP]witch...[1205][001E][SP]I[SP]won't[SP]listen[SP]to[SP]you[SP]tell[SP]me\nyou've[SP]forgotten[SP]this[SP]face![SP]It's[SP]you[SP]and[SP]your\nbrat[SP]friend[SP]who[SP]did[SP]this[SP]to[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tatsuya[SP]Sudou",
+    "texte_fr": "Sorcière...[1205][001E][SP]Je[SP]ne[SP]te[SP]laisserai[SP]pas[SP]prétendre\navoir[SP]oublié[SP]ce[SP]visage![SP]C'est[SP]toi[SP]et[SP]ton\nami[SP]gamin[SP]qui[SP]m'avez[SP]fait[SP]ça!"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 146,
     "nom_orig": "Maya",
     "texte_orig": "Me[SP]and...[1205][001E][SP][U+1113]-kun!?[SP]I...[SP]don't[SP]know\nwhat[SP]you're[SP]talking[SP]about!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Moi[SP]et...[1205][001E][SP][U+1113]-kun!?[SP]Je...[SP]je[SP]ne[SP]vois\npas[SP]de[SP]quoi[SP]tu[SP]parles!"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 126,
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "Still[SP]feigning[SP]ignorance,[SP]eh?[1205][001E][SP]Well,[SP]fine.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tatsuya[SP]Sudou",
+    "texte_fr": "Tu[SP]feins[SP]toujours[SP]l'ignorance,[SP]hein?[1205][001E][SP]Très[SP]bien."
   },
   {
     "id": 11,
